@@ -14,12 +14,8 @@ This is a Django-based online sweet shop web application where users can view an
 - HTML, CSS, Bootstrap
 - SQLite Database
 
-## 📦 How to Run:
+## ScreenShort
 
-```bash
-git clone https://github.com/ahmedraza1234567/Sweet-Shop.git
-cd Sweet-Shop
-python manage.py runserver
 ![image](https://github.com/user-attachments/assets/3dcdb006-c5f4-4ca2-81d9-df41f5660853)
 
 ![image](https://github.com/user-attachments/assets/27ae7da5-ca94-470e-9722-b89c1d10c437)
@@ -33,3 +29,10 @@ python manage.py runserver
 ![image](https://github.com/user-attachments/assets/e52bdfcf-af35-43b4-9e52-f70f41f1fac7)
 
 ![image](https://github.com/user-attachments/assets/58cf551a-fcea-4682-9a10-26cc57654804)
+
+## 📦 How to Run:
+
+```bash
+git clone https://github.com/ahmedraza1234567/Sweet-Shop.git
+cd Sweet-Shop
+python manage.py runserver
